@@ -22,8 +22,8 @@ const links = [
       { link: '/blog', label: 'Blog' },
     ],
   },
-  { link: '/about', label: 'About' },
-  { link: '/pricing', label: 'Pricing' },
+  { link: '/customers', label: 'Customers' },
+  { link: '/contacts', label: 'Contacts' },
   {
     link: '#2',
     label: 'Support',
