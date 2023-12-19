@@ -49,7 +49,7 @@ const items = links.map((link) => {
             <a
               href={link.link}
             //   className={classes.link}
-              onClick={(event) => event.preventDefault()}
+              // onClick={(event) => event.preventDefault()}
             >
               <Center>
                 <span >{link.label}</span>
@@ -67,7 +67,7 @@ const items = links.map((link) => {
         key={link.label}
         href={link.link}
         // className={classes.link}
-        onClick={(event) => event.preventDefault()}
+        // onClick={(event) => event.preventDefault()}
       >
         {link.label}
       </a>
